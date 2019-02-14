@@ -10,8 +10,8 @@ El código es totalmente Open Source, puede ser descargado e instalado por cualq
 
 ## Quiero colaborar ¿Cómo lo hago?
 
-Ppuede reportar cualquier fallo en éste repositorio. Si eres desarrollador y tienes unas propuestas, puede colocar un Pull Request, no sin antes abrir un **issue** con la propuesta.
+Puede reportar cualquier fallo en éste repositorio. Si eres desarrollador y tienes unas propuestas, puede colocar un Pull Request, no sin antes abrir un **issue** con la propuesta.
 
 ## API
 
-La definición del API está pública en https://glucologapi.docs.apiary.io/ favor revisar.
+La definición del API está pública en https://glucologapi.docs.apiary.io/, favor revisar.
